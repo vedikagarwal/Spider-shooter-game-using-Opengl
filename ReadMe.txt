@@ -39,7 +39,7 @@ The cannon-balls reflect from the side walls and can be used to kill the white s
 To compile the project : g++ cyberspider.cpp -lglut -lGLU -lGL
 
 To run the project : ./a.out
-
-                      Enter
+                     Enter
+                     cd
                       
-                      cd
+                 

@@ -35,3 +35,11 @@ If a spider falls on your tank, you lose the game.
 The cannon-balls reflect from the side walls and can be used to kill the white spiders.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Over and Out Commander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To compile the project : g++ cyberspider.cpp -lglut -lGLU -lGL
+
+To run the project : ./a.out
+
+                      Enter
+                      
+                      cd
